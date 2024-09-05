@@ -1,5 +1,14 @@
-Here you can say lots of fun things about your site.
+I am just an average stats student trying to learn and help others struggling like me!
 
-Maybe say a some things about yourself.
+I know the github page looks horrible but I am not trying to learn HTML!
 
-Or maybe what you plan to blog about.
+It's time to start cooking in the lab...
+What's on the list:
+- Causal Inference
+- Statistical Tests/Concepts
+- ML methods
+- Neural Network Concepts
+- Data Wrangling/Cleaning
+- SQL Concepts
+- Regression
+- (Insert any other buzzword!)
