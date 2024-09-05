@@ -2,7 +2,7 @@ I am just an average stats student trying to learn and help others struggling li
 
 I know the github page looks horrible but I am not trying to learn HTML!
 
-It's time to start cooking in the lab...
+It's time to start cooking in the lab... <br/>
 What's on the list:
 - Causal Inference
 - Statistical Tests/Concepts
