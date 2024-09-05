@@ -18,9 +18,10 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
 
-#rss: rss
+#theme: "minima"
+
+rss: rss
 
 remote_theme: "dracula/gh-pages"
 
