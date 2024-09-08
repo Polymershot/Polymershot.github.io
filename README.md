@@ -1,2 +1,2 @@
 Link to Github Page: 
-> polymershot.github.io
+> https://polymershot.github.io
